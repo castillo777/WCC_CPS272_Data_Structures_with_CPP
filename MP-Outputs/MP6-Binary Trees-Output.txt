@@ -1,0 +1,10 @@
+Please enter a string of text: hello world i live in ann arbor michigan
+Post Order Traversal is:
+arbor ann in michigan live i world hello
+Pre Order Traversal is:
+hello ann arbor world i live in michigan
+In Order Traversal is:
+ann arbor hello i in live michigan world
+Height of tree is: 4
+No. of leaf nodes in tree is: 3
+Press any key to continue . . .

@@ -1,0 +1,19 @@
+Please enter the first complex number: 4.2+3.0i
+
+Please enter the second complex number: 2.0+2.1i
+
+ADDITION:
+(4.2 + 3.0i) + (2.0 + 2.1i) = (6.2 + 5.1i)
+
+SUBTRACTION:
+(4.2 + 3.0i) - (2.0 + 2.1i) = (2.2 + 0.9i)
+
+MULTIPLICATION:
+(4.2 + 3.0i) * (2.0 + 2.1i) = (2.1 + 0.9i)
+
+DIVISION:
+(4.2 + 3.0i) / (2.0 + 2.1i) = (5.1 + -1.0i)
+
+All calcuations are complete!
+
+Press any key to continue . . .

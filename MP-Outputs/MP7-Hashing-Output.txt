@@ -1,0 +1,22 @@
+Printing the hash table:...
+Login: marry
+Password: mary
+
+Authentication failure
+
+Login: changeMe!
+Password: mary
+
+Authentication failure
+
+Login: login
+Password: password
+
+Authentication failure
+
+Login: mary
+Password: changeMe!
+
+Authentication successful
+
+Press any key to continue . . .

@@ -1,0 +1,36 @@
+Palindrome Checker:
+Input a string: 1&A#A&1
+1&A#A&1 matches the pattern.
+
+Input a string: 1&A#1&A
+1&A#1&A does not match the pattern.
+
+Input a string: madamimadam#madamimadam
+madamimadam#madamimadam matches the pattern.
+
+Input a string:
+Quitting Palindrome Checker...
+
+Base Converter:
+Enter a non-negative decimal number and base (2 <= B <= 16)
+or 0 0 to terminate: 155 16
+        155 in base 16 is 9B
+
+Enter a non-negative decimal number and base (2 <= B <= 16)
+or 0 0 to terminate: 3553 8
+        3553 in base 8 is 6741
+
+Enter a non-negative decimal number and base (2 <= B <= 16)
+or 0 0 to terminate: 0 0
+Quitting Base Converter...
+
+Balanced Brace Checker:
+Enter the file name, or 'q' to quit: balance1.txt
+The symbols in balance1.txt are balanced.
+Enter the file name, or 'q' to quit: balance2.txt
+The symbols in balance2.txt are NOT balanced.
+Enter the file name, or 'q' to quit: q
+Program terminating...
+Quitting Balanced Brace Checker...
+
+Press any key to continue . . .

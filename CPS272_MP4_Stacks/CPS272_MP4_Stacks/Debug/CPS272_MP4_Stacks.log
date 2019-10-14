@@ -1,0 +1,4 @@
+﻿  Driver.cpp
+d:\dev projects\visual studio\c++\wcc_homework\cps272_mp4_stacks\cps272_mp4_stacks\baseconverter.h(34): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const int', possible loss of data
+d:\dev projects\visual studio\c++\wcc_homework\cps272_mp4_stacks\cps272_mp4_stacks\baseconverter.h(34): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  CPS272_MP4_Stacks.vcxproj -> D:\Dev Projects\Visual Studio\C++\WCC_Homework\CPS272_MP4_Stacks\Debug\CPS272_MP4_Stacks.exe

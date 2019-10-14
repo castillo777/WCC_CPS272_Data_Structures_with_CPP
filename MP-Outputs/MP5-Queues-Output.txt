@@ -1,0 +1,244 @@
+Current Time = 1 - waiting time = 5 - # of customers in queue = 1
+
+Current Time = 2 - waiting time = 5 - # of customers in queue = 1
+
+Current Time = 3 - waiting time = 5 - # of customers in queue = 1
+
+Current Time = 4 - waiting time = 5 - # of customers in queue = 1
+
+Current Time = 5 - waiting time = 5 - # of customers in queue = 1
+
+Current Time = 6 - waiting time = 5 - # of customers in queue = 1
+
+Current Time = 7 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 8 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 9 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 10 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 11 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 12 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 13 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 14 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 15 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 16 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 17 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 18 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 19 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 20 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 21 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 22 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 23 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 24 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 25 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 26 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 27 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 28 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 29 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 30 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 31 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 32 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 33 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 34 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 35 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 36 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 37 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 38 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 39 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 40 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 41 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 42 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 43 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 44 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 45 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 46 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 47 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 48 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 49 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 50 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 51 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 52 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 53 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 54 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 55 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 56 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 57 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 58 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 59 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 60 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 61 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 62 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 63 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 64 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 65 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 66 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 67 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 68 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 69 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 70 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 71 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 72 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 73 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 74 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 75 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 76 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 77 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 78 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 79 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 80 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 81 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 82 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 83 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 84 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 85 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 86 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 87 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 88 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 89 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 90 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 91 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 92 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 93 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 94 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 95 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 96 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 97 - waiting time = 5 - # of customers in queue = 2
+
+Current Time = 98 - waiting time = 5 - # of customers in queue = 3
+
+Current Time = 99 - waiting time = 5 - # of customers in queue = 3
+
+Current Time = 100 - waiting time = 5 - # of customers in queue = 3
+
+Current Time = 101 - waiting time = 5 - # of customers in queue = 3
+
+Current Time = 102 - waiting time = 5 - # of customers in queue = 3
+
+Current Time = 103 - waiting time = 5 - # of customers in queue = 3
+
+Current Time = 104 - waiting time = 5 - # of customers in queue = 3
+
+Current Time = 105 - waiting time = 5 - # of customers in queue = 3
+
+Current Time = 106 - waiting time = 8 - # of customers in queue = 3
+
+Current Time = 107 - waiting time = 8 - # of customers in queue = 3
+
+Current Time = 108 - waiting time = 8 - # of customers in queue = 3
+
+Current Time = 109 - waiting time = 8 - # of customers in queue = 3
+
+Current Time = 110 - waiting time = 8 - # of customers in queue = 4
+
+Current Time = 111 - waiting time = 8 - # of customers in queue = 4
+
+Current Time = 112 - waiting time = 9 - # of customers in queue = 4
+
+Current Time = 113 - waiting time = 9 - # of customers in queue = 4
+
+Current Time = 114 - waiting time = 9 - # of customers in queue = 4
+
+Current Time = 115 - waiting time = 9 - # of customers in queue = 4
+
+Current Time = 116 - waiting time = 10 - # of customers in queue = 4
+
+Current Time = 117 - waiting time = 10 - # of customers in queue = 4
+
+Current Time = 118 - waiting time = 10 - # of customers in queue = 4
+
+Current Time = 119 - waiting time = 11 - # of customers in queue = 4
+
+Current Time = 120 - waiting time = 11 - # of customers in queue = 4
+
+Number of customers in queue is = 3
+Longest wait time is = 11
+
+Press any key to continue . . .

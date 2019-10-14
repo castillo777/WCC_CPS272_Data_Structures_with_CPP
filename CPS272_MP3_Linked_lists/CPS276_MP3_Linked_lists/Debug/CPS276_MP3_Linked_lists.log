@@ -1,0 +1,3 @@
+﻿  Driver.cpp
+d:\dev projects\visual studio\c++\wcc_homework\cps276_mp3_linked_lists\cps276_mp3_linked_lists\driver.cpp(87): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CPS276_MP3_Linked_lists.vcxproj -> D:\Dev Projects\Visual Studio\C++\WCC_Homework\CPS276_MP3_Linked_lists\Debug\CPS276_MP3_Linked_lists.exe
